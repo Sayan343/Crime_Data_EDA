@@ -1,4 +1,4 @@
-<img width="1830" height="371" alt="image" src="https://github.com/user-attachments/assets/a1c7f17a-6dc4-4baa-982d-fcf9439ba4c2" /># Crime Data Analysis
+# Crime Data Analysis
 
 
 ### Data Sources
